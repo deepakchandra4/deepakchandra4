@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Deepak Chandra Maurya , As a BCA student and web developer, <br>I have a strong foundation in computer science and programming concepts,<br>which I apply to creating dynamic and visually appealing websites. <br>Expertise in various web development technologies and tools, such as HTML, CSS, JavaScript,<br>and popular frameworks like React.<br>I am committed to staying up-to-date with the latest web development<br>trends and are constantly seeking to improve my skills and knowledge to build better web solutions for your clients.
+I am Deepak Chandra Maurya , As a college graduate and web developer, <br>I have a strong foundation in computer science and programming concepts,<br>which I apply to creating dynamic and visually appealing websites. <br>Expertise in various web development technologies and tools, such as HTML, CSS, JavaScript,<br>and popular frameworks like React.<br>I am committed to staying up-to-date with the latest web development<br>trends and are constantly seeking to improve my skills and knowledge to build better web solutions for your clients.
 
 
 ## 🌐 Socials:
